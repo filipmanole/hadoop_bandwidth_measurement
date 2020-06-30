@@ -23,3 +23,8 @@ make run-download LOCAL_PATH=/local/path/to/download HADOOP_PATH=/hadoop/directo
 make clean
 ```
 
+## Generate data
+Run the script generate_files.sh in order to generate the files for upload.
+```bash
+./generate_files.sh
+```
